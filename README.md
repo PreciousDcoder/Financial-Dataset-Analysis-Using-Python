@@ -1,3 +1,6 @@
+# A video showing a rundown of this project
+https://drive.google.com/drive/u/0/folders/1huSaBoKEWK4mwJIdtozmPyjnxhrIxuDM
+
 # Project Overview
 This is a complete Exploratory Data Analysis Project of a Financial Dataset Using Python. By analyzing this data, I tried to understand the performance of the company across different countries, segments, and the performance of their various products. I understood and took note of patterns and trends in their dataset to enable give recommendations. 
 
